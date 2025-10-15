@@ -57,8 +57,8 @@ export default function Post() {
 
   console.log(post);
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col items-center p-4">
-      <div className="bg-white shadow-lg rounded-3xl p-8 max-w-2xl w-full">
+    <div className="min-h-screen flex flex-col items-center p-4">
+      <div className="shadow-lg rounded-3xl p-8 max-w-2xl w-full">
         <div className="flex items-center justify-center mb-6 ">
           <div className="relative w-16 h-16">
             <img

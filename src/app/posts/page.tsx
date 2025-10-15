@@ -1,8 +1,6 @@
 "use client";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import List from "../components/list";
-import Image from "next/image";
 import Loading from "../components/loading";
 type Post = {
   id: number;
