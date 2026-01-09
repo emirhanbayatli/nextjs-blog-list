@@ -1,6 +1,6 @@
 # 📝 Next.js 15 Blog Explorer
 
-A clean and efficient blog application built while learning modern Next.js 15 data fetching patterns, routing system, and Server Component architecture. This project focuses on practicing server-side rendering (SSR) concepts together with external API integration.
+A simple Next.js 15 blog project built while learning modern data fetching, routing, and Server Component concepts.
 
 ---
 
